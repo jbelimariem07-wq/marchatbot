@@ -1,0 +1,30 @@
+{
+  "name": "marchatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aziza-jbali/marchatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aziza-jbali/marchatbot/issues"
+  },
+  "homepage": "https://github.com/aziza-jbali/marchatbot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "groq-sdk": "^1.2.0",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
